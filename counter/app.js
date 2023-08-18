@@ -1,4 +1,4 @@
-( function () {
+const jscounter =  () => {
     const buttons = document.querySelectorAll('.counterBtn');
     let count = 0
 
@@ -25,4 +25,5 @@
             }
         })
     }
-}) ()
+}
+jscounter()
