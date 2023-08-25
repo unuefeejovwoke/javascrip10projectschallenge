@@ -5,7 +5,7 @@ Building 10 different javascript projects before moving to apis for js
    3. Page transition with GSAP done
    4. Cursor animation done
    5. Responsive sidebar done
-   6. Porfolio filter
+   6. Porfolio filter done
    7. Product search
    8. Meme generator
    9. js calculator
