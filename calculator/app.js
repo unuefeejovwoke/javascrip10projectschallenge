@@ -10,7 +10,7 @@
             let value = e.target.dataset.num;
             screen.value += value;
         })
-    }
+    };
 
     equal.addEventListener('click', (e)=>{
         if (screen.value === ''){
