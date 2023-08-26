@@ -30,7 +30,7 @@ body{
 
 .container form{
     width: 100%;
-    border: 1px solid rgb(255, 171, 27);
+    border: 1px solid #ffab1b;
     border-radius: 4px;
     display: flex;
     flex-direction: row;
