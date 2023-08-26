@@ -6,7 +6,7 @@ Building 10 different javascript projects before moving to apis for js
    4. Cursor animation done
    5. Responsive sidebar done
    6. Porfolio filter done
-   7. Product search
+   7. Product search done
    8. Meme generator
    9. js calculator
    10. Image search app
