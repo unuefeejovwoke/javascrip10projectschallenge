@@ -9,4 +9,4 @@ Building 10 different javascript projects before moving to apis for js
    7. Product search done
    8. Meme generator done
    9. js calculator done
-   10. Image search app
+   10. Image search app done
